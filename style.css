@@ -1,0 +1,29 @@
+.container  
+{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.fields
+{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.results
+{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+button
+{
+    width: 25%;
+}
+div
+{
+    margin: 10px;
+}
